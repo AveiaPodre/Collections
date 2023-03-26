@@ -47,6 +47,6 @@ public class App {
         //inserirTreeSet(nomes);
         //inserirHashMap(nomes);
         //inserirLinkedHashMap(nomes);
-        inserirTreeMap(nomes);
+        //inserirTreeMap(nomes);
     }
 }

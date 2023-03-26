@@ -17,4 +17,3 @@ print(palavras_sem_pontuacao)
 
 with open("palavras.txt", "w") as input_file:
     input_file.writelines(palavras_sem_pontuacao)
-    
